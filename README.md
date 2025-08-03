@@ -1,2 +1,2 @@
 # AMAZON-CLONE
-I developed this  AMAZON CLONE by using HTML, CSS, JAVASCRIPT
+I developed this  AMAZON CLONE by using HTML, CSS and JAVASCRIPT
